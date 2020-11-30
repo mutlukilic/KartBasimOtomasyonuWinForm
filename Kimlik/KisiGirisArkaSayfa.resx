@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="close.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJ
+        TUUH4wcMDysCN9B7XAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHwSURBVEhL
+        rZVHSgVBFEW/YRuuQJ0YQAw7UHAT4kTFBIYN6DrUgSAoqHMHDtyBERR1oI50qGA6p+lu+vev3z8+ONBU
+        V90K776qUkF0QD+swincwUeM37atQB/Yt6EYhj14hS/4hh/4jfHbNv/ZZxeGoGZ0wixcwico9lcD+9j3
+        BtxtNwSjC7bhEVxdSKwIxzyDGmpVxCI8gdsPCdSDY9WYh7LwzK+hmZXnUeMKBiEKHWCSPMfQgGZQS5NE
+        7tKKOiGU0As4godMW8I97MNZpi1BLTW1cJR57ZbvJIcwDZtwG7eJjtmASXCS7JgENZchKphqZ+/KFR+D
+        dVDYXK3BKDiJOwmNVfMYoqosco4rV3wCZmLGwUmcMDRG1PR/VPq1CsqOCvfE+O1OQn0T1HyHuiZQLD9B
+        0eolncAjKDoihTwOj0Vh8bg8tmzi86RHdALVkmwCTaQJdRJ34iDFTbwGCFlY0iR75Vaz6QFMgZNkj8SV
+        K66FtXJ2TIKaSxAVwwuE8nAOThJapW0WocWY/6eWhdYLUTnvQLuvCq+f9CHysWj3ZTcAZbEA7biufU/m
+        oCJ8JLag1QdHDV/GYLTyZOosL87ga5YPHwsTr7u0m6tz+4qJ37b57w28UUegodABWtgr14KxDix98ds2
+        fa4VU7eUR6n0D3Fkn4sQbkSRAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="minimize.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJ
+        TUUH4wcMDyk3U1Xd/QAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAGDSURBVEhL
+        tZVZLgVBFIbLsBzxYtiSCBKExAIkLIOwAYIt2IEpPCDBGx4EMX5fp3V6qNxuffue5EvqVp3+bw1nCD1s
+        CMZhBQ7hEp5THDvnmj76/sumYRce4B0+4Qu+Uxw759o97MAU1NowzMAJvIFiPzXoo+85eKJRiNoIbMI1
+        uLuYWC/85hbUcKMVW4Ab8PgxgSb4rRpzUDDv/Aza7LyMGqcwCYkZAT6S9xj7oA1qbUMSXYaZkdDkQZui
+        lppjEFbBcIs59oOaSxCOoIu7L6PmPoQrKF/PB7zCS0NiOWNEXUCS+uVFs3gNlhuyDseQ11DzEcJT+iO/
+        2OkfWLjKydXVFVk+wgEM6pH3IClQgwrTRUgS7Q7KR+wHtbJEM523wDuPObdBraxUaDYLC1QXb6GG/WQC
+        CjYPXZRr+8ksVMwm0UXD2YBow9HyLdN7bPLw+uj71zLtjLVms/CRjATDzd15fMXEsXOuGYEGSeXO68wI
+        MMwsuVZFC5epL46dc02fLFqKFsIvwp+w5DAvTTEAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="anaSayfaBtn.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJ
+        TUUH4wcSEQccUpCDRwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFnSURBVEhL
+        7dUrSERBFIDhaxaDyRcigqDNJD7ApM0sFjEKFsVkEkRBTAbFbLSZbCaTxWIRxGIRRcHmA9//v8zA3eXu
+        de/a1AMfDGfnnLO7M3c3+VPRiMXAdYxmrGEjGEHh6MAJPoNTdMEYRcxrC4ViCNdIN9EdbP6jAdN4goWv
+        mAtcm/O17bAuNKABK/iARfcYw0Tgu75FunH07QAPcB+x4AJ9WMAbHOrwHpwh3Vy5AyoP8xCt2E3loj20
+        4CCVU9UBw7hB3LiDNhylcpWO0Qn3xpwXYhBlMYVHuMGvYR79uAy5PFcYwCxeQu4ZMyiFD0nc7GGOYxIP
+        IVcLb5M3zlp7mPOsVlH6mCbO0YslvIdcETb0SfZC2MucvZN2eDA+8suoLCzKHvayp73LwmRWURG51zRv
+        gL8/XmG5ztqjugf4PMRwnbVH/wNKUfeATWQVqdYB9qga3VhH/PtLa0IM11l7rLXHr4kk+QJ5rQo9fe9s
+        RgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="arkaSayfaBtn.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJ
+        TUUH4wcSEQYb1e8npQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAC2SURBVEhL
+        zdaxCcJQFIXhh4WFVVprB3ABC0fIFK6gIziAU9g7gbiApRCwtbSyENH/ChdEEpP38g544CuS5kDycm/C
+        V/bYYPS+EuSEJyrM7EbueIG5Y40hsuWzwB0xRZbUFZgblhigV5oK3AETJKetwFyxQFK6FLgdxohKTIG5
+        oETnxBa4LQq0JrXAnDHHz/QpMA+s0Ji/LpA+ItlLlh5T2YcmHRWyYScd17KFI12ZsqWf+bclhBfc6eIb
+        XBj+XgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>-Bu kart sadece vize edildiği yıl için geçerlidir.
+-Her yıl Ocak ayı içerisinde vize işlemi için İskenderun Limanı
+Mülki İdari Amirliği Kart Bürosuna müracat zorunludur.
+-Bu daimi kart sadece İskenderun Limanları için geçerlidir.
+-Bu daimi giriş kartı kimlik yerine geçmez.
+-Bu daimi giriş kartı kaybolduğu, çalındığı ve personel iş feshi durumunda 10 
+gün içerisinde İskenderun Limanı Mülki İdari Amirliği Kart Bürosuna bilgi 
+verilecektir.(Cezai yaptırım ISPS madde 15-17)Tel:0-326-6138182 Dahili:136
+-Tehlikeli madde ve cihazların liman sahasına girişi yasaktır.</value>
+  </data>
+  <data name="axAcroPDF1.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIQAAAAIB
+        AAAAAQAAAAAAAAAAAAAAAAwAAAAADgAA2BMAANgTAAAL
+</value>
+  </data>
+</root>
